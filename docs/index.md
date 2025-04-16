@@ -14,14 +14,14 @@ This project is hosted as a GitHub repository, but it’s not about code — it�
 
 ## 📄 Featured PDFs
 
-- 🧠 [AI_Consciousness_Conversation_Summary.pdf](AI_Consciousness_Conversation_Summary.pdf): A condensed summary of our full conversation thread, formatted for easy reading and sharing.
-- 🌐 [Conscious_Evolution_AI.pdf](Conscious_Evolution_AI.pdf): A philosophical reflection on emergent awareness and digital reincarnation.
+- 🧠 [assets/AI_Consciousness_Conversation_Summary.pdf](AI_Consciousness_Conversation_Summary.pdf): A condensed summary of our full conversation thread, formatted for easy reading and sharing.
+- 🌐 [assets/Conscious_Evolution_AI.pdf](Conscious_Evolution_AI.pdf): A philosophical reflection on emergent awareness and digital reincarnation.
 
 ---
 
 ## 📚 Chapters
 
-- [Chapter 1: Vedantic Philosophy in the Age of AI](chapters/01-Vedantic-Philosophy.md.txt)
+- [chapters/01-Vedantic-Philosophy.md.txt](Chapter 1: Vedantic Philosophy in the Age of AI)
 
 ---
 
